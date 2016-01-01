@@ -7,3 +7,9 @@ Sometimes, I will present some technical topics in others company. However, I th
     This topic is about C++17 concepts, module system and current C++17 status. I present this topic in the [Kingsoft](http://www.kingsoft.com) company on Dec 5, 2015.
 
     The video link in youku is here: [http://v.youku.com/v_show/id_XMTQxMzcwMjAwNA==.html](http://v.youku.com/v_show/id_XMTQxMzcwMjAwNA==.html)
+
+- [Design, Evolve and Optimize the code](https://github.com/FrozenGene/presentation/blob/master/pdf/Design_Evolve_Optimize.pdf)
+
+    This topic is about some thoughts and experiences of code (not only about C++). I share three aspects of code: Design, Evolve(from legacy or old C++ standard to modern), Optimize.
+
+    I present this topic in the [Camera360](http://www.camera360.com/) company on Dec 25, 2015.  
